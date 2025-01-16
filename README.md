@@ -21,7 +21,7 @@
 outline@shaoyu: The goal of this section is to address some issues when we install and use LLM inference enginees. These engines are in highly rapid development and not stable, resulting in some easy instructions being needed.
 
 #### Some considerations for invoking API services
-outlint@shaoyu: Well, invoking API services is usually costly. A few practical tips can prevent us from wasting unnecessary 🤑**money** in the initial debugging and large-scale experiments.
+outline@shaoyu: Well, invoking API services is usually costly. A few practical tips can prevent us from wasting unnecessary 🤑**money** in the initial debugging and large-scale experiments.
 
 ## 🤔What happens when they get together?
 > [!IMPORTANT]
