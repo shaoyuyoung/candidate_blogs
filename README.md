@@ -16,7 +16,10 @@ outline@shaoyu: After submitting your bug report, maintainers will check your bu
 ## 🛡️Fuzz Testing
 
 #### How to design a simple and effective fuzzing tool?
-outline@shaoyu: stay tunned
+outline@shaoyu: To be honest, I'm not very familiar with C++ fuzzing (e.g., AFL, AFL++, OSS-fuzz). So this section aims to use these tools easily (I will also keep learning myself).
+
+#### How to generate DL model to fuzz a DL system (library or compiler, such as PyTorch, ONNX, TVM)?
+outline@shaoyu: After understanding the fundamentals of fuzzing, we move closer to our goal: fuzzing AI Infra! The basic element for this is a DL model. We have a formula: **`DL system fuzzing = Generating DL models`**. I will introduce how can we generate a DL model (valid and diverse), by using NNSmith.
 
 
 ## 🤖Large Language Models
